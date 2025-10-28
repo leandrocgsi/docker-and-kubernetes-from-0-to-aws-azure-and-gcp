@@ -7,9 +7,9 @@
 ![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/docker-and-kubernetes-from-0-to-aws-azure-and-gcp)
 
 ## ✅ Confira o curso oficial
-### 👉 [Docker e Kubernetes do 0 à AWS, Azure e GCP com Github Actions](https://www.udemy.com/course/docker-e-kubernetes-do-0-a-aws-azure-e-gcp-com-github-actions/?couponCode=GTHB_FLASH_SALE2021)
+### 👉 [Docker e Kubernetes do 0 à AWS, Azure e GCP com Github Actions](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_kubernetes_aws_azure_gcp.png?raw=true "Docker e Kubernetes do 0 à AWS, Azure e GCP com Github Actions")](https://www.udemy.com/course/docker-e-kubernetes-do-0-a-aws-azure-e-gcp-com-github-actions/?couponCode=GTHB_FLASH_SALE2021)
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_para_amazon_aws_implante_apps_java_e_dot_net_com_travis_ci.png?raw=true "Docker e Kubernetes do 0 à AWS, Azure e GCP com Github Actions")](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
 
 ---
 
@@ -50,6 +50,6 @@ Mesmas ferramentas disponíveis via repositórios de pacotes.
 ---
 
 Este é o repositório dos códigos-fonte desenvolvidos no curso:  
-🎓 [Docker e Kubernetes do 0 à AWS, Azure e GCP com Github Actions](https://www.udemy.com/course/docker-e-kubernetes-do-0-a-aws-azure-e-gcp-com-github-actions/?couponCode=GTHB_FLASH_SALE2021)
+🎓 [Docker e Kubernetes do 0 à AWS, Azure e GCP com Github Actions](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
 
-[<img src="https://github.com/leandrocgsi/RestWithASP-NETUdemy/blob/master/Images/udemy.png?raw=true" width="120">](https://www.udemy.com/course/docker-e-kubernetes-do-0-a-aws-azure-e-gcp-com-github-actions/?couponCode=GTHB_FLASH_SALE2021)
+[<img src="https://github.com/leandrocgsi/RestWithASP-NETUdemy/blob/master/Images/udemy.png?raw=true" width="120">](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
