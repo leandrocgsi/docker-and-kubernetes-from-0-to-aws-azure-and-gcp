@@ -69,10 +69,8 @@ builder.Services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseHttpsRedirection();
-}
+
+app.UseHttpsRedirection();
 app.UseRouting();
 
 app.UseAuthentication();
@@ -88,6 +86,4 @@ app.UseHATEOASRoutes();
 app.UseSwaggerSpecification();
 app.UseScalarConfiguration();
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-app.Run($"http://*:{port}");
-// app.Run();
+app.Run();
