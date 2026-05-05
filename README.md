@@ -49,6 +49,10 @@ Este é o repositório dos códigos fonte desenvolvidos no curso [Formação Doc
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/30-jasper.png "Crie Relatórios Profissionais com JasperReports, Java, Spring Boot e JasperSoft Studio")](https://pub.erudio.com.br/crie-relatorios-profissionais-com-jasperreports-java-spring-boot-e-jaspersoft-studio?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=repo)
 
+# [Download e-Book Grátis - Guia Docker](https://pub.erudio.com.br/guia-docker)
+
+[![e-Book Grátis - Guia Docker](https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/ebook.png?raw=true)](https://pub.erudio.com.br/guia-docker)
+
 ## [Como Configurar Ambiente de DEV Spring Boot no Windows: Java, Maven, IntelliJ e MySQL Guia Completo](https://www.youtube.com/watch?v=M-0HxNoUeNE)
 
 [![Montando um Ambiente de Desenvolvimento Spring Boot e Java no Windows: Minicurso Gratuito Completo!](https://img.youtube.com/vi/M-0HxNoUeNE/maxresdefault.jpg)](https://www.youtube.com/watch?v=M-0HxNoUeNE)
@@ -72,7 +76,3 @@ Este é o repositório dos códigos fonte desenvolvidos no curso [Formação Doc
 ## [Como Configurar Ambiente de DEV Spring Kotlin no Linux: Java, Kotlin, IntelliJ e MySQL Guia Completo](https://www.youtube.com/watch?v=i4RsgeUfa64)
 
 [![Como Configurar Ambiente de DEV Spring Kotlin no Linux: Java, Kotlin, IntelliJ e MySQL Guia Completo](https://img.youtube.com/vi/i4RsgeUfa64/maxresdefault.jpg)](https://www.youtube.com/watch?v=i4RsgeUfa64)
-
-# [Download e-Book Grátis - Guia Docker](https://pub.erudio.com.br/guia-docker)
-
-[![e-Book Grátis - Guia Docker](https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/ebook.png?raw=true)](https://pub.erudio.com.br/guia-docker)
