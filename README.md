@@ -11,9 +11,6 @@
 
 Este é o repositório dos códigos fonte desenvolvidos no curso [Formação Docker e Kubernetes 2026: do Zero ao Deploy Profissional na AWS, Azure e GCP com GitHub Actions](https://pub.erudio.com.br/docker-e-kubernetes-2026-do-zero-ao-deploy-profissional-na-aws-azure-e-gcp-com-github-actions?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=repo-oficial)
 
-# [Download e-Book Grátis - Guia Docker](https://pub.erudio.com.br/guia-docker)
-[![e-Book Grátis - Guia Docker](https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/ebook.png?raw=true)](https://pub.erudio.com.br/guia-docker)
-
 # Cursos Relacionados
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/09-docker.png "Formação Docker e Kubernetes 2026: do Zero à Inteligência Artificial com MCP Catalog e Docker Model Runner")](https://pub.erudio.com.br/meus-cursos?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=repo)
@@ -59,3 +56,23 @@ Este é o repositório dos códigos fonte desenvolvidos no curso [Formação Doc
 ## [Como Configurar Ambiente de DEV Spring Boot no Linux: Java, Maven, IntelliJ e MySQL Guia Completo](https://www.youtube.com/watch?v=Wk5645fHrVU)
 
 [![Montando um Ambiente de Desenvolvimento Spring Boot e Java no Linux: Minicurso Gratuito Completo!](https://img.youtube.com/vi/Wk5645fHrVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wk5645fHrVU)
+
+## [Como Configurar Ambiente de DEV ASP.NET no Windows: .NET 10, Visual Studio e SQL Server Guia Completo](https://www.youtube.com/watch?v=dqwARAaweu8)
+
+[![Como Configurar Ambiente de DEV ASP.NET no Windows: .NET 10, Visual Studio e SQL Server Guia Completo](https://img.youtube.com/vi/dqwARAaweu8/maxresdefault.jpg)](https://www.youtube.com/watch?v=dqwARAaweu8)
+
+## [Como Configurar Ambiente de DEV ASP.NET no Linux: .NET 10, Visual Studio e SQL Server Guia Completo](https://www.youtube.com/watch?v=QQlraJMG5pU)
+
+[![Como Configurar Ambiente de DEV ASP.NET no Linux: .NET 10, Visual Studio e SQL Server Guia Completo](https://img.youtube.com/vi/QQlraJMG5pU/maxresdefault.jpg)](https://www.youtube.com/watch?v=QQlraJMG5pU)
+
+## [Como Configurar Ambiente de DEV Spring Kotlin no Windows: Kotlin, IntelliJ e MySQL Guia Completo](https://www.youtube.com/watch?v=DS1dpRb-Z2c)
+
+[![Como Configurar Ambiente de DEV Spring Kotlin no Windows: Kotlin, IntelliJ e MySQL Guia Completo](https://img.youtube.com/vi/DS1dpRb-Z2c/maxresdefault.jpg)](https://www.youtube.com/watch?v=DS1dpRb-Z2c)
+
+## [Como Configurar Ambiente de DEV Spring Kotlin no Linux: Java, Kotlin, IntelliJ e MySQL Guia Completo](https://www.youtube.com/watch?v=i4RsgeUfa64)
+
+[![Como Configurar Ambiente de DEV Spring Kotlin no Linux: Java, Kotlin, IntelliJ e MySQL Guia Completo](https://img.youtube.com/vi/i4RsgeUfa64/maxresdefault.jpg)](https://www.youtube.com/watch?v=i4RsgeUfa64)
+
+# [Download e-Book Grátis - Guia Docker](https://pub.erudio.com.br/guia-docker)
+
+[![e-Book Grátis - Guia Docker](https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/ebook.png?raw=true)](https://pub.erudio.com.br/guia-docker)
